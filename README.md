@@ -18,8 +18,6 @@
 
 <h3 data-importer="text" align="left">Languages & Web Development:</h3>
 
-###
-
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -42,8 +40,6 @@
 
 <h3 data-importer="text" align="left">Server & Infrastructure:</h3>
 
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
@@ -57,8 +53,6 @@
 ###
 
 <h3 data-importer="text" align="left">Server & Infrastructure:</h3>
-
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
